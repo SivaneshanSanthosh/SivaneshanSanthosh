@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hello World! I'm Sivaneshan Santhosh<br><br>🤔I am currently searching a full stack internship   <br><br>📚Lifelong Learner<br><br>😍I love turning ideas Int Into beautiful Web or Application<br><br>😎Specializing in HTML, CSS, Javascript, Java<br><br>Leveling up my skills in React, Next.Js, MongoDB<br><br>Always ready to talk about frontend and backend trends, design systems<br><br>Forever a student of design, accessibility, and web performance<br><br>Let's create something awesome together!
+👋Hello World! I'm Sivaneshan Santhosh<br><br>🤔I am currently searching a full stack internship   <br><br>📚Lifelong Learner<br><br>😍I love turning ideas Int Into beautiful Web or Application<br><br>😎Specializing in HTML, CSS, Javascript, Java<br><br>🤗Leveling up my skills in React, Next.Js, MongoDB<br><br>🤞Always ready to talk about frontend and backend trends, design systems<br><br>🎓Forever a student of design, accessibility, and web performance<br><br>🤝Let's create something awesome together!
 
 
 ## 🌐 Socials:
